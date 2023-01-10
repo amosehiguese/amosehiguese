@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amos
 
-I am a software engineer that specializes in using python and javascript programming languages to build scalable software solutions using popular frameworks like Flask, React, and BootStrap with an emphasis on AWS Cloud Architecture. Going forward I am looking to be more involved in designing scalable data-intensive systems.
+I am a software engineer that specializes in using python to build scalable software solutions using popular frameworks like Django, Django-Rest Framework, Flask, React, and BootStrap with an emphasis on AWS Cloud Architecture. Going forward I am looking to be more involved in designing scalable data-intensive systems.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amosehiguese&show_icons=true&theme=radical"/>
 
