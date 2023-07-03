@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amos
 
-I love working with golang, kubernetes, and all things cloud-native
+I love working with golang, kubernetes, docker, and all things cloud-native
 
 Roles of interest to me are: 
 1) Backend Developer
