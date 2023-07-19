@@ -2,7 +2,7 @@
 
 I love working with Golang, Backend-related technologies, Kubernetes, Docker, and all things cloud-native.
 
-Roles of interest to me are: 
+Roles of interest to me are:  
 1) Backend Developer  
 2) Site Reliability Engineer
 
