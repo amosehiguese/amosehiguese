@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amos😊
+# Hi 👋, I'm Amos😊 
 
 I love working with Golang, Backend-related technologies, Kubernetes, Docker, and all things cloud-native. 
 
