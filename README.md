@@ -6,7 +6,7 @@ Roles of interest to me are:
 1) Backend Developer
 2) Kubernetes Engineer
 
-I also fancy other languages like TypeScript, Java, and Python but I'm rusty in all except Golang😊.
+I also fancy other languages like TypeScript, Java, and Python but I'm mostly using Golang currently😊.
 
 I like what I do and I do what I like. 
  
