@@ -6,12 +6,11 @@ Roles of interest to me are:
 1) Backend Developer
 2) Kubernetes Engineer
 
-## Other Skills 
-Frontend: HTML, CSS, JS, and React. 
+## Skills 
 
 Languages: Go, Python, Java, JavaScript.
 
-DevOps: Kubernetes, Docker, Helm...more to come
+DevOps: Kubernetes, Docker, Helm, Terraform, Skaffold, Jenkins, AWS, GCP...more to come
 
 ## 👨‍💻 The latest about me 
 
