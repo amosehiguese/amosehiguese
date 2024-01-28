@@ -10,7 +10,7 @@ Roles of interest to me are:
 
 Languages: Go, Python, Java, JavaScript.
 
-DevOps: Kubernetes, Docker, Helm, Terraform, Prometheus, Skaffold, AWS...
+DevOps: Kubernetes, Docker, Helm, Terraform, Open Telementry, Skaffold, AWS...
 
 ## 👨‍💻 The latest about me 
 
