@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" alt="desktop-oil-painting" src="https://media.licdn.com/dms/image/D4D16AQF6ReYCnpmJsQ/profile-displaybackgroundimage-shrink_350_1400/0/1663161505573?e=1720051200&v=beta&t=A_uQ93vRSc2YIWoRQoQvXiPPWt3W64sCqegYi8MCxv8">
+<img width="100%" alt="desktop-oil-painting" src="green.avif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Amos😊  </h1>
