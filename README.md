@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="desktop-oil-painting" src="green.avif">
+<img width="500" alt="desktop-oil-painting" src="green.avif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Amos😊  </h1>
