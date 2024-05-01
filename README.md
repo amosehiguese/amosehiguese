@@ -13,8 +13,8 @@ DevOps: Kubernetes, Docker, Helm, Terraform, Open Telementry, Skaffold, Github A
 
 ## 👨‍💻 The latest about me 
 
-- 🔭 I’m studying about distributed systems with Go
-- 👯 I’m looking to collaborate on projects with Go
+- 🔭 I’m studying about distributed systems. 
+- 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about Go, Rust, Kubernetes, microservices...  
 - 📫 You can reach me on LinkedIn:\
 <a href="https://www.linkedin.com/in/amos-ehiguese-201b33100/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
