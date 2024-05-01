@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" alt="desktop-oil-painting" src="green.avif">
+<img width="500" alt="nature" src="green.avif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Amos😊  </h1>
@@ -9,7 +9,7 @@
 
 Languages: Go, Python, Rust, Java, JavaScript.
 
-DevOps: Kubernetes, Docker, Helm, Terraform, Open Telementry, Skaffold, AWS...
+DevOps: Kubernetes, Docker, Helm, Terraform, Open Telementry, Skaffold, Github Actions, AWS...
 
 ## 👨‍💻 The latest about me 
 
