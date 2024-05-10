@@ -8,7 +8,9 @@
 ## Skills 
 
 Languages: Go, Python, Rust, Java, JavaScript.
+
 Protocols: REST, RPC...
+
 DevOps: Kubernetes, Docker, Helm, Terraform, Open Telementry, Skaffold, Github Actions, AWS...
 
 ## 👨‍💻 The latest about me 
