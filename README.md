@@ -18,7 +18,7 @@ DevOps: Kubernetes, Docker, Helm, Open Telementry, Skaffold, Github Actions, AWS
 - 🔭 I’m studying about distributed systems. 
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about Go, Rust, Kubernetes, microservices...
-- [my résumé resides here](./Amos-Ehiguese-Resume.pdf)
+- [my résumé resides here](./Amos-Ehiguese-Software-Developer.pdf)
    <a href="./Amos-Ehiguese-Resume.pdf" download='Amos-Ehiguese-Resume.pdf'>
      Download CV
    </a>
