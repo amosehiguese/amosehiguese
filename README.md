@@ -7,17 +7,16 @@
 
 ## Skills 
 
-Languages: Go, Python
+Languages: Go, Rust, and Python
 
 Protocols: REST, RPC...
 
-DevOps: Kubernetes, Docker, Helm, Open Telementry, Skaffold, Github Actions, AWS...
+DevOps: Kubernetes, Docker, Helm, OTel, Github Actions, AWS...
 
-## 👨‍💻 The latest about me 
+## 👨‍💻 About me 
 
-- 🔭 I’m studying about distributed systems. 
-- 👯 I’m looking to collaborate on open source projects 
-- 💬 Ask me about Blockchain, Go, Rust, Kubernetes, microservices...
+- 🔭 Interested in Backend, Distributed Systems (etcd, k8s), and AI. 
+- 👯 Love collaborating on open source projects 
 - 📫 You can reach me on LinkedIn:\
 <a href="https://www.linkedin.com/in/amos-ehiguese-201b33100/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
