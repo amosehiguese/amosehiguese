@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" alt="nature" src="green.avif">
+<img width="500" alt="nature" src="Software Engineer Banner.png">
 </div>
 
 <h1 align="center">Hi 👋, I'm Amos😊  </h1>
