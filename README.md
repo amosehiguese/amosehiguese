@@ -15,7 +15,7 @@ DevOps: Kubernetes, Docker, Helm, OTel, Github Actions, AWS...
 
 ## 👨‍💻 About me 
 
-- 🔭 Interested in Backend, Distributed Systems (etcd, k8s), and AI. 
+- 🔭 Interested in Backend, Distributed Systems (etcd, k8s), Blockchain, and AI. 
 - 👯 Love collaborating on open source projects 
 - 📫 You can reach me on LinkedIn:\
 <a href="https://www.linkedin.com/in/amos-ehiguese-201b33100/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
