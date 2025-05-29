@@ -7,7 +7,7 @@
 
 ## Skills 
 
-Languages: Go, Rust, and Python
+Languages: Go, Rust, Move, TypeScript, and Python
 
 Protocols: REST, RPC...
 
