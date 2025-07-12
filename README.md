@@ -2,7 +2,7 @@
 <img  alt="nature" src="Software Engineer Banner.png">
 </div>
 
-<h1 align="center">Hi 👋, I'm Amos😊  </h1>
+<h1 align="center">Hi 👋, I'm Ose😊  </h1>
 <h3 align="center">Welcome to my world of code.</h3>
 
 ## Skills 
