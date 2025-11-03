@@ -7,8 +7,6 @@
 
 ## Skills 
 
-Languages: Go, Rust, Move, TypeScript, and Python
-
 Protocols: REST, RPC...
 
 DevOps: Kubernetes, Docker, Helm, OTel, Github Actions, AWS...
